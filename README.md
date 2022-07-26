@@ -1,16 +1,50 @@
-### Hi there 👋
+### Hi there, I'm Marciel 👋
 
-<!--
-**MarcieL-Bezerra/Marciel-Bezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Engineer, Student at Estácio
 
-Here are some ideas to get you started:
+- 🔭  I'm currently improving my Java skills by deepening my knowledge of Spring Boot 🥰 I'm also learning more about API.
+- 🥅  Goals for 2023: Learn English, Complete the Systems Analysis and Development course. Study artificial intelligence.
+- ⚡ Fun fact: I am a technology lover; mostly AI 🥰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Connect with me:
+
+
+[<img align="left" alt="yigiterinc | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />][linkedin]
+
+
+
+<br />
+
+### Languages and Tools:
+
+#### Technologies:
+
+<img align="left" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png"/>
+<img align="left" alt="Spring" width="26px" src="https://pics.freeicons.io/uploads/icons/png/11755973651551952107-512.png"/>
+<img align="left" alt="AWS" width="26px" src="https://pics.freeicons.io/uploads/icons/png/18181230061536126577-512.png"/>
+<img align="left" alt="Docker" width="26px" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png"/>
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
+<img align="left" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/191213921552037062-512.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img align="left" alt="GitHub" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9484177861548141924-512.png" />
+<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png"/>
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Firebase" width="26px" src="https://pics.freeicons.io/uploads/icons/png/6247864081536298180-512.png"/>
+<br />
+
+#### Current Favorites:
+
+<img align="left" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png"/>
+<img align="left" alt="Spring" width="26px" src="https://pics.freeicons.io/uploads/icons/png/11755973651551952107-512.png"/>
+<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png"/>
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<br />
+<br />
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=marciel-bezerra&count_private=true&show_icons=true&theme=nightowl" />
+
+[linkedin]: https://www.linkedin.com/in/marciel-bezerra-053407b6/
