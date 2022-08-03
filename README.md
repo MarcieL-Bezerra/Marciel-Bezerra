@@ -3,7 +3,7 @@
 ## I'm a Software Engineer, Student at Estácio
 
 - 🔭  I'm currently improving my Java skills by deepening my knowledge of Spring Boot 🥰 I'm also learning more about API.
-- 🥅  Goals for 2023: Learn English, Complete the Systems Analysis and Development course. Study artificial intelligence.
+- 🥅  Goals for 2023: Learn English, Complete the Systems Analysis and Development course. Studying artificial intelligence.
 - ⚡ Fun fact: I am a technology lover; mostly AI 🥰
 
 
