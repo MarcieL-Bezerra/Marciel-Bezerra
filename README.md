@@ -1,4 +1,4 @@
-### Hi there, I'm Marciel 👋
+### Hi there, I'm Marciel Bezerra 👋
 
 ## I'm a Software Engineer, Student at Estácio
 
@@ -44,7 +44,14 @@
 <br />
 <br />
 
+<div align="center" dir="auto">
+  <a href="https://github.com/MarcieL-Bezerra">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciel-bezerra&count_private=true&show_icons=true&theme=nightowl" style="max-width: 100%;"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=marciel-bezerra&count_private=true&show_icons=true&theme=nightowl" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciel-bezerra&amp;langs_count=5&amp;theme=nightowl" style="max-width: 100%;">
+</a></div><a href="https://github.com/MarcieL-Bezerra">
 
 [linkedin]: https://www.linkedin.com/in/marciel-bezerra-053407b6/
+
+
