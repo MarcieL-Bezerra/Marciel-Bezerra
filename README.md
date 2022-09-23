@@ -49,7 +49,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciel-bezerra&count_private=true&show_icons=true&theme=nightowl" style="max-width: 100%;"/>
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciel-bezerra&amp;langs_count=5&amp;theme=nightowl" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciel-bezerra&amp;langs_count=6&amp;theme=nightowl" style="max-width: 100%;">
 </a></div><a href="https://github.com/MarcieL-Bezerra">
 
 [linkedin]: https://www.linkedin.com/in/marciel-bezerra-053407b6/
