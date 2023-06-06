@@ -54,8 +54,8 @@
 
 </a></div><a href="https://github.com/MarcieL-Bezerra">
 
-
+![Snake animation](https://github.com/marciel-bezerra/marciel-bezerra/blob/output/github-contribution-grid-snake.svg)
 
 [linkedin]: https://www.linkedin.com/in/marciel-bezerra-053407b6/
 
-![Snake animation](https://github.com/marciel-bezerra/marciel-bezerra/blob/output/github-contribution-grid-snake.svg)
+
