@@ -1,25 +1,25 @@
-### Hi there, I'm Marciel Bezerra 👋
+ # 👋 Olá, me chamo Marciel Bezerra 👋
 
-## 🧑‍🎓 I'm a Software Engineer, Student at Estácio
+## 🧑‍🎓 Eu sou Desenvolvedor de Software
 
-- 🔭  I'm currently improving my Java skills by deepening my knowledge of Spring Boot 🥰 I'm also learning more about API.
-- 🥅  Goals for 2023: Learn English, Complete the Systems Analysis and Development course. Studying artificial intelligence.
-- ⚡ Fun fact: I am a technology lover; mostly AI 🥰
-
-
-
-### Connect with me:
+- 🔭  Atualmente estou trabalhando como Desenvolvedor Java Back-End.
+- 🥅  Atualmente estou aprimorando minhas habilidades em Java, aprofundando meu conhecimento de Spring Boot  🥰  Eu também estou aprendendo mais sobre API e AWS.
+- ⚡ Sou apaixonado por Python, tenho uma grande afinidade com a liguagem, inclusive é um dos meus hobies  🥰
 
 
-[<img align="left" alt="yigiterinc | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />][linkedin]
+
+📫 Como entrar em contato comigo:
+
+
+- [<img align="left" alt="yigiterinc | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />][linkedin]
 
 
 
 <br />
 
-### Languages and Tools:
+## Linguagens e Tecnologias:
 
-#### Technologies:
+#### Tecnologias:
 
 <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png"/>
 <img align="left" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png"/>
@@ -35,12 +35,14 @@
 
 <br />
 
-#### Current Favorites:
+#### Minhas Top 5 Favoritas:
 
 <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png"/>
 <img align="left" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png"/>
+<img align="left" alt="Linux" width="26px" bg: "30px solid white" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" />
 <img align="left" alt="Spring" width="26px" src="https://pics.freeicons.io/uploads/icons/png/11755973651551952107-512.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
 
 <br />
 <br />
